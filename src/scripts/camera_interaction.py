@@ -473,7 +473,7 @@ def compute_interaction_matrix_inverse(L, lambda_=0.01, rank_threshold=1e-6, con
     Returns:
     - L_inv: np.ndarray -> The best inverse of L based on its properties.
     """
-    ## chatgpt generated need to check back
+    ## need to check this inverse calculation
 
     rank = np.linalg.matrix_rank(L)
     min_dim = min(L.shape)
