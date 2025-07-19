@@ -21,4 +21,6 @@ note every command is with respect to end effector frame
 - <b>u,h</b> for z direction angular velocity
 
 
+## Demonstration
+[Watch the demonstration video](https://www.youtube.com/watch?v=HrTwXm3lAAI&list=PLLz1sOXg8PAkqSfSraIt4_Va0OZJjCnhI)
 
