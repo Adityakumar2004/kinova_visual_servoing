@@ -1,8 +1,6 @@
-# kinovo_project
-This repository is made to control the kinovo kortex in gazebo when end effector twist is given as the input commands 
-- it uses inverse jacobian (mapping from end effector to the joint space velocity commands) which is built from scratch
-- the next part which is currently ongoing is the image based visual servoing 
-- its open to suggestions 
+# Purpose of this repo
+1. To control the kinovo kortex in gazebo when end effector twist is given as the input commands 
+2. To implement image based visual servoing on physical robot
 
 ## How to run
 - the repository for ros_kortex needs to be cloned from their github page website this repository is built over that to facilitate control in gazebo 
